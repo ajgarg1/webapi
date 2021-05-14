@@ -1,0 +1,16 @@
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\BasicOperations\bin\Debug\App.config
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\BasicOperations\bin\Debug\BasicOperations.exe.config
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\BasicOperations\bin\Debug\BasicOperations.exe
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\BasicOperations\bin\Debug\BasicOperations.pdb
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\BasicOperations\bin\Debug\CDSWebApiService.dll
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\BasicOperations\bin\Debug\Newtonsoft.Json.dll
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\BasicOperations\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\BasicOperations\bin\Debug\CDSWebApiService.pdb
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\BasicOperations\bin\Debug\Newtonsoft.Json.xml
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\BasicOperations\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\BasicOperations\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\BasicOperations\obj\Debug\BasicOperations.csprojAssemblyReference.cache
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\BasicOperations\obj\Debug\BasicOperations.csproj.CoreCompileInputs.cache
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\BasicOperations\obj\Debug\BasicOperations.csproj.CopyComplete
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\BasicOperations\obj\Debug\BasicOperations.exe
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\BasicOperations\obj\Debug\BasicOperations.pdb

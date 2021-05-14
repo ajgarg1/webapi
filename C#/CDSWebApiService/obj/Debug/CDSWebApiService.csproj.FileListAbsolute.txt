@@ -1,0 +1,12 @@
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\CDSWebApiService\bin\Debug\CDSWebApiService.dll
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\CDSWebApiService\bin\Debug\CDSWebApiService.pdb
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\CDSWebApiService\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\CDSWebApiService\bin\Debug\Newtonsoft.Json.dll
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\CDSWebApiService\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\CDSWebApiService\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\CDSWebApiService\bin\Debug\Newtonsoft.Json.xml
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\CDSWebApiService\obj\Debug\CDSWebApiService.csproj.CoreCompileInputs.cache
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\CDSWebApiService\obj\Debug\CDSWebApiService.csproj.CopyComplete
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\CDSWebApiService\obj\Debug\CDSWebApiService.dll
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\CDSWebApiService\obj\Debug\CDSWebApiService.pdb
+E:\RSystem\New-Prjct\DataVerse & PVA\Dataverse\CodeSamples\PowerApps-Samples-master\cds\webapi\C#\CDSWebApiService\obj\Debug\CDSWebApiService.csprojAssemblyReference.cache
